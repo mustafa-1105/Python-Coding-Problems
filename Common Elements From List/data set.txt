@@ -1,0 +1,29 @@
+Enter number of lists: 3
+From how many lists the elements should be common: 2
+Enter size of 1th list: 6
+Enter each values on new line for list1: 
+2
+5
+3
+2
+8
+1
+Enter size of 2th list: 7
+Enter each values on new line for list2: 
+7
+9
+5
+2
+4
+10
+10
+Enter size of 3th list: 6
+Enter each values on new line for list3: 
+6
+7
+5
+5
+3
+7
+Common elements present in at least 2lists are: 
+[2, 5, 3, 7]
