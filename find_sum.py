@@ -10,7 +10,7 @@ a = dict()
 index = 0
 for i in nums:
     diff = target - i
-    if (diff in a):
+    if diff in a:
         print([index, a[diff]])
     a[i] = index
     index += 1
